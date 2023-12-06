@@ -2,6 +2,8 @@ Output
 Home page
 ![Uploading home.PNG…]()
 ![Uploading cart.PNG…]()
+Login firebase store![Uploading login.PNG…]()
+d data
 
 Redux stored addItem RemoveItem
 ![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
