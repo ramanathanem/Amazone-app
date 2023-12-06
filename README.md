@@ -1,6 +1,7 @@
 Output
 Home page
 ![Uploading home.PNG…]()
+![Uploading cart.PNG…]()
 
 Redux stored addItem RemoveItem
 ![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
