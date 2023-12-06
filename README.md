@@ -1,8 +1,9 @@
 Output
 ![home](https://github.com/ramanathanem/Amazone-app/ass![login](https://github.com/ramanathanem/Amazone-app/assets/137532243/b51b9c73-4d9e-4b93-8301-a08aa4e36bd1)
 ets/137532243/22b10e6e-f7bb-48c1-9cff-73466989ee67)
-Redux stored addItem RemoveIte![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
-m
+Redux stored addItem RemoveItem
+![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
+
 
 # Getting Started with Create React App
 
