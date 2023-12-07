@@ -16,7 +16,7 @@ Login firebase store
 
 
 
-payment
+payment stored data in stripe
 
 ![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/a8a894a0-d450-46c9-a09c-b643a4a1dc18)
 
