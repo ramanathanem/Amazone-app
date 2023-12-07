@@ -13,7 +13,7 @@ payment
 
 ![Uploading image.png…]()
 
-![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/a390b44d-c184-4104-ad17-f0ba4bec3ced)
+
 
 
 
