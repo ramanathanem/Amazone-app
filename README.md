@@ -16,6 +16,12 @@ Redux stored addItem RemoveItem
 ![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
 
 
+payment
+
+![Uploading image.png…]()
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
