@@ -1,18 +1,10 @@
 ##npm install 
 First of all you can install node module
-
+Output
 login
 
 
 ![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/4a6f025e-eccf-4723-a441-a779929c8e35)
-
-
-
-Output
-payment
-
-![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/a8a894a0-d450-46c9-a09c-b643a4a1dc18)
-
 
 
 
@@ -21,6 +13,12 @@ payment
 
 Login firebase store
 ![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/bca0fb09-481d-404a-a055-632212f65fea)
+
+
+
+payment
+
+![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/a8a894a0-d450-46c9-a09c-b643a4a1dc18)
 
 
 
