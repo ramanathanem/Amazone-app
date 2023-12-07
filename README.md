@@ -18,6 +18,8 @@ Login firebase store
 Redux stored addItem RemoveItem
 ![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
 
+You will give this number in payment method
+4242 4242 4242 4242 04/24 242 42424
 
 
 
