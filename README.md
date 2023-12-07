@@ -21,6 +21,9 @@ Login firebase store
 ![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/bca0fb09-481d-404a-a055-632212f65fea)
 
 
+
+
+
 Redux stored addItem RemoveItem
 ![redex](https://github.com/ramanathanem/Amazone-app/assets/137532243/8410d4b8-126b-42a7-870d-9f6b3835e1b3)
 
