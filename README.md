@@ -4,7 +4,7 @@ First of all you can install node module
 
 Output
 Home page
-![Uploading image.png…]()
+![image](https://github.com/ramanathanem/Amazone-app/assets/137532243/a390b44d-c184-4104-ad17-f0ba4bec3ced)
 
 
 
@@ -19,6 +19,7 @@ Redux stored addItem RemoveItem
 payment
 
 ![Uploading image.png…]()
+
 
 
 
